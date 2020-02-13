@@ -2,7 +2,7 @@
 
 Using .Net core 3.1 + SuperSocket.
 
-To test a code open SampleServer folder with visual studio code then debug it.
+To test a code open SampleServer folder with visual studio code then start debug.
 
 Server use a default supersocket's commandline protocol and listen on port 9090.
 
